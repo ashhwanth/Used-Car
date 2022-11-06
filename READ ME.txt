@@ -1,0 +1,2 @@
+1)Index.php is the login page
+2)Start from Index.php
